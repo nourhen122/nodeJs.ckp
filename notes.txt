@@ -1,0 +1,15 @@
+node js == runtime environment for javascript ==>
+javascript is a browser language 
+thanks to node js we can now write server side code using javascript
+
+ADVANTAGE ==== js frontend
+methods es6 / es7 used for node js
+
+node js is asynchronus 
+
+handles multiples tasks asynchronusly
+
+(1,2,3) =/=> 1,2,3 
+
+node js uses callback functions (promises, async/await syntax)
+
